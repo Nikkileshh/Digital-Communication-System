@@ -1,1 +1,2 @@
 # Digital-Communication-System
+If a filter produces an output in such a way that it maximizes the ratio of output peak power to mean noise power in its frequency response, then that filter is called Matched filter. This is equivalent to convolving the unknown signal with a conjugated time-reversed version of the template. The matched filter is the optimal linear filter for maximizing the signal-to-noise ratio (SNR) in the presence of noise.
